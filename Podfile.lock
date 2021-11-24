@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.4.4)
+  - ZKProgressHUD (5.1.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - ZKProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ZKProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  ZKProgressHUD: af9e9929c6935587da382bf23d31b4e995b8c229
+
+PODFILE CHECKSUM: b00bc538bc1b609ad82c72ecf6d8369d39e37380
+
+COCOAPODS: 1.11.2
